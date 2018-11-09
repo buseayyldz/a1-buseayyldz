@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="drawing-3.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="271.26802"
+     inkscape:cy="552.8"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ff2a2a;fill-opacity:0.40425535;stroke:#ed19b7;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.10638296"
+       id="rect4766"
+       width="181.42857"
+       height="117.17262"
+       x="-94.494041"
+       y="58.875" />
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:0.40425535;stroke:#ed19b7;stroke-width:1.61222672;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.10638296"
+       id="rect4768"
+       width="182.37228"
+       height="106.02111"
+       x="41.483494"
+       y="141.93587" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#ffff00;fill-opacity:0.40425535;stroke:#ed19b7;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.10638296"
+       id="path4770"
+       sodipodi:sides="5"
+       sodipodi:cx="191.54079"
+       sodipodi:cy="110.76881"
+       sodipodi:r1="91.219994"
+       sodipodi:r2="29.388269"
+       sodipodi:arg1="1.4042852"
+       sodipodi:arg2="2.0326038"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 206.65984,200.72714 -28.2135,-63.64853 -67.78897,15.86792 51.8149,-46.5011 -36.03923,-59.567687 60.23686,34.909262 45.5155,-52.682774 -14.58647,68.076214 64.16936,27.007945 -69.25179,7.16415 z"
+       inkscape:transform-center-x="-6.2908389"
+       inkscape:transform-center-y="-1.9736221" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:32.06761169px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffb380;fill-opacity:1;stroke:none;stroke-width:0.80169028;"
+       x="-82.546577"
+       y="93.015396"
+       id="text4780"
+       transform="scale(0.69432039,1.4402573)"><tspan
+         sodipodi:role="line"
+         id="tspan4778"
+         x="-82.546577"
+         y="93.015396"
+         style="fill:#ffb380;stroke-width:0.80169028;">MAKE-UP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:28.3924675px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:0.70981175;"
+       x="47.159557"
+       y="186.81029"
+       id="text4784"
+       transform="scale(1.1101435,0.90078444)"><tspan
+         sodipodi:role="line"
+         id="tspan4782"
+         x="47.159557"
+         y="186.81029"
+         style="fill:#ff9955;stroke-width:0.70981175;">&amp;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:29.7872982px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffb380;fill-opacity:1;stroke:none;stroke-width:0.74468243;"
+       x="133.22496"
+       y="145.26991"
+       id="text4788"
+       transform="scale(0.69057606,1.4480664)"><tspan
+         sodipodi:role="line"
+         id="tspan4786"
+         x="133.22496"
+         y="145.26991"
+         style="fill:#ffb380;stroke-width:0.74468243;">BEAUTY</tspan></text>
+  </g>
+</svg>
