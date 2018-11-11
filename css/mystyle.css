@@ -1,4 +1,12 @@
-	#resim img{
-    width: 50%;
+
+
+table, th, td {
+   border: 1px solid purple;
+   border-collapse: collapse
 }
 
+.products {
+    font-family: tahoma;
+    color: purple;
+   font-size: 20px
+} 
